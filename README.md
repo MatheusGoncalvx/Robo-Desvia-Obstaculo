@@ -12,7 +12,7 @@ Aqui está a lista de materiais necessários para construir o robô desvia de ob
 
 - 1 Arduino Uno
 - 1 Servo Motor
-- 1 Bateria 9V (Alcalina ou Recarregavel) 
+- 2 Baterias 9V 
 - 1 Sensor de Distância Ultrassônico
 - 1 Clip de Bateria 9V
 - 1 Motor Driver Shield L298N Ponte H para Arduino
