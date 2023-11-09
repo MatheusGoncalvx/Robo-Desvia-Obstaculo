@@ -21,3 +21,7 @@ Aqui está a lista de materiais necessários para construir o robô desvia de ob
 - Jumpers
 
 ## Colaboradores
+
+| <a href="https://github.com/stxrkwas"><img src="https://avatars.githubusercontent.com/u/124840632?v=4" width="200px" alt="Maria Luiza"></a> | <a href="https://github.com/julioviolan24"><img src="https://avatars.githubusercontent.com/u/126586364?v=4" width="200px" alt="Júlio Cesar"></a> | <a href="https://github.com/joaomanoelvaleriao"><img src="https://avatars.githubusercontent.com/u/126586711?v=4" width="200px" alt="João Manoel"></a> |
+| --- | --- | --- |
+| Maria Luiza | Júlio Cesar | João Manoel |
