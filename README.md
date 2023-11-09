@@ -11,7 +11,6 @@ Este projeto é um exemplo de um robô autônomo que utiliza sensores para detec
 Aqui está a lista de materiais necessários para construir o robô desvia de obstáculos:
 
 - 1 Arduino Uno
-- 1 Placa Protoboard
 - 1 Servo Motor
 - 1 Bateria 9V (Alcalina ou Recarregavel) 
 - 1 Sensor de Distância Ultrassônico
