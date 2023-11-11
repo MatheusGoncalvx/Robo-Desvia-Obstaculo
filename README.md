@@ -1,6 +1,8 @@
 # Robô Desvia de Obstáculos (WALL-E)
 
-![Imagem do Robô](inserir-link-da-imagem.jpg)
+<div align="center">
+<img src="https://i.ibb.co/SdMtkN1/Whats-App-Image-2023-11-11-at-18-53-10.jpg" width="400">
+</div>
 
 ## Descrição
 
@@ -14,7 +16,7 @@ Aqui está a lista de materiais necessários para construir o robô desvia de ob
 - 1 Servo Motor
 - 2 Baterias 9V 
 - 1 Sensor de Distância Ultrassônico
-- 1 Clip de Bateria 9V
+- 2 Clips de Bateria 9V
 - 1 Motor Driver Shield L298N Ponte H para Arduino
 - 1 Kit Chassi (2 rodas)
 - 1 Botão liga/desliga quadrado preto- Chave Gangorra
